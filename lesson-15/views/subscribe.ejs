@@ -1,0 +1,15 @@
+<!-- views/contact.ejs -->
+<!-- Listing 15.4 (p. 219)-->
+
+<!-- 구독 폼 추가 -->
+<form action="/subscribe" method="POST">
+  <input type="text" name="name" placeholder="Name" />
+  <input type="email" name="email" placeholder="Email" />
+  <input
+    type="text"
+    name="phone"
+    placeholder="01055555555"
+    pattern="[0-9]{11}"
+  />
+  <input type="submit" value="Subscribe" />
+</form>
