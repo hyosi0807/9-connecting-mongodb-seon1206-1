@@ -136,15 +136,15 @@ Finally, we will need to create a `seed.js` file to populate our database with s
 
 ## 과제 파일
 
-- **4-connecting-mongodb (NO TESTS) `(16/16)`** _(4월 21일까지)_
+- **4-connecting-mongodb (NO TESTS) `(12/12)`** _(4월 21일까지)_
   - [lesson-13](./lesson-13) (MongoDB)
     - main.js `(2/2)`
   - [lesson-14](./lesson-14) (Mongoose)
     - main1.js `(2/2)`
-    - main2.js `(2/2)`
+    - <del>main2.js `(2/2)`</del>
     - /models/subscriber.js `(2/2)`
   - [lesson-15](./lesson-15) (Mongoose)
     - main.js `(2/2)`
     - /controllers/subscribersController.js `(2/2)`
     - subscribers.ejs `(2/2)`
-    - seed.js `(2/2)`
+    - <del>seed.js `(2/2)`</del>
